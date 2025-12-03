@@ -1,0 +1,31 @@
+.div-1, .div-2, .div-3, .div-4{
+    width: 500px;
+    height: 255px;
+    background-color:#003300;
+    border-radius: 20px;
+}
+
+.container{
+    height: 60vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+h2{
+    text-align: center;
+    font-size: 25px;
+    color: orange;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+ body{
+    background-color: black;
+  }
